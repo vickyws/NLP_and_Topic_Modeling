@@ -1,5 +1,5 @@
 # Natural Language Processing and Topic Modeling on User Review Dataset
-This is an unsupervised learning project to clustered customer reviews into groups and discovered the latent semantic structure.
+This is an unsupervised learning project to clustered customer reviews into groups, visualize the results and identify their latent topics/structures.
 ## Dataset
 Aan e-commerce product review data from http://s3.amazonaws.com/amazon-reviews-pds/readme.html.
 ## Steps
